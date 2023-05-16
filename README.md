@@ -6,5 +6,5 @@ The project is written in TypeScript to create an interface for WebGPU. Later al
 
 [Slime Mold Paper](https://uwe-repository.worktribe.com/output/980579)
 
-![slimeMoldImage](https://payload.cargocollective.com/1/18/598881/13800048/network_2.gif)
 
+<img src="https://payload.cargocollective.com/1/18/598881/13800048/network_2.gif" width="300px">
