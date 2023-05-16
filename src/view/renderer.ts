@@ -30,7 +30,7 @@ export class Renderer{
 
     constructor(canvas: HTMLCanvasElement){
         this.canvas = canvas;
-        this.deltaT = 0.01;
+        this.deltaT = 0;
     }
     async initialize(size:number){
         await this.setupDevice();
